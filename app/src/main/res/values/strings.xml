@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shut The Box</string>
+    <string name="exit_button">結束遊戲</string>
+    <string name="start_button">遊戲開始</string>
+</resources>
